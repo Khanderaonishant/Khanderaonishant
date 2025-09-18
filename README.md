@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nishant Khanderao</h1>
-<h3 align="center">A passionate Coder nd Web developer from India</h3>
+<h3 align="center">A passionate Coder,Web developer ,Backend Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a891d7d5917bebbdfcedb02348ab06be64822b69e8d1cfdad45e6dc5279f6ca7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khanderaonishant&label=Profile%20views&color=0e75b6&style=flat" alt="nishant" /> </p>
 
-- 💬 Ask me about **DSA,CP**
+- 💬 Ask me about **DSA,Python,C++,OOPS,SQL,HTML5.CSS Javascript,AWS,Azure,React.js,Node.js**
 
-- 🌱 I’m currently learning **DSA,CP and exploring CSS Frameworks**
+- 🌱 I’m currently learning **Data Analytics**
 
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Khanderaonishant/](https://github.com/Khanderaonishant/Khanderaonishant)
 
-- 📫 How to reach me: **nishantkhanderao.skn.comp@gmail.com**
+- 📫 How to reach me: **khanderaonishant07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
